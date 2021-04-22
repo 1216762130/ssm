@@ -41,7 +41,7 @@
         <redis.version>2.9.0</redis.version>
         <redis.spring.version>1.7.1.RELEASE</redis.spring.version>
 
-        <shiro-version>1.2.5</shiro-version>
+        <shiro-version>1.7.1</shiro-version>
     </properties>
 
     <dependencies>
